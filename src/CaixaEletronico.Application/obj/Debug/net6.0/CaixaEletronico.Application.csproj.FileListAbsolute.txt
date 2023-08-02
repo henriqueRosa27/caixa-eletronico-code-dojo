@@ -1,0 +1,12 @@
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\bin\Debug\net6.0\CaixaEletronico.Application.deps.json
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\bin\Debug\net6.0\CaixaEletronico.Application.dll
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\bin\Debug\net6.0\CaixaEletronico.Application.pdb
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.csproj.AssemblyReference.cache
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.AssemblyInfoInputs.cache
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.AssemblyInfo.cs
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.csproj.CoreCompileInputs.cache
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.dll
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\refint\CaixaEletronico.Application.dll
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\CaixaEletronico.Application.pdb
+D:\projetos\meta\CaixaEletronico\src\CaixaEletronico.Application\obj\Debug\net6.0\ref\CaixaEletronico.Application.dll
